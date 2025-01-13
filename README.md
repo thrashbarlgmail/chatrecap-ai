@@ -1,3 +1,9 @@
+Chat Recap AI - Your AI Chat Analysis 💌
+
+
+([Chat Recap AI](https://chat-recapai.com))Can your smart conversation analyzer help you understand the dynamics of your relationship? To help me write, I use these prompts:
+
+
 # Chat Recap AI - Your AI Chat Analysis Companion 💌
 
 Chat Recap AI is your intelligent conversation analyzer, designed to help you understand and enhance the dynamics of your relationships through cutting-edge AI chat analysis. By examining message patterns, response times, and emotional content, our platform provides deep insights into your digital interactions, empowering you to build better connections and identify crucial relationship patterns.
@@ -57,3 +63,4 @@ Early adopters receive:
 For questions about chat exports, analysis capabilities, or general inquiries, contact our support team.
 
 Transform your understanding of digital communication with Chat Recap AI. Join our waitlist today!
+
